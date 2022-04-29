@@ -127,7 +127,7 @@ export const Post = ({
               <LottieView
                 ref={animation}
                 style={styles.heartLottie}
-                source={require("../assets/lottie/like.json")}
+                source={require("../assets/lottie/haikudos.json")}
                 autoPlay={false}
                 loop={false}
               />
